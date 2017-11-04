@@ -2,6 +2,17 @@ package BinarySearch;
 
 import java.util.Scanner;
 
+/****************************************************************/
+//Group.....................................: G10
+//1.		Manojkumar Devaraya Shenoy, 			Matrikel-Nr : 478610
+//2.		Krishna Viswanathan Janardhanan,		Matrikel-Nr : 480282
+//3.		Kumar Ekambaram,						Matrikel-Nr : 
+//4.		Ashiya,								Matrikel-Nr : 480237
+//5.		Priyanka Nagaraj,		 			Matrikel-Nr : 
+//6.		Ananya Sagara Neelakanta Jois, 		Matrikel-Nr : 
+//7.		Jayrajsinh Vajesinh Parmar, 			Matrikel-Nr : 
+/****************************************************************/
+
 public class Main {
 
 	public static void main(String[] args) {	
