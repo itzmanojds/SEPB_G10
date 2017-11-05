@@ -90,8 +90,7 @@ public class Main {
 			{
 				//Calculating the middle position
 				int mid_position = (last_position + first_position )/2; 		
-				
-				System.out.println("Mid="+mid_position);
+			
 				
 				//Check if the number to be searched is same as middle value
 				if (intArray[mid_position] == searchNumber) {	
