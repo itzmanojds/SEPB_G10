@@ -32,7 +32,7 @@ public class Main {
 		//To print all content of Array
 		for(int i= 0; i < arrayLength; i++) 
 		{
-			System.out.print("["+i+"]\t\n");
+			System.out.print("["+i+"]\t");
 		}
 		System.out.println("");
 		//To print all content of Array
