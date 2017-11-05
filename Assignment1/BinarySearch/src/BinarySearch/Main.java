@@ -1,7 +1,11 @@
-package BinarySearch;
-
-import java.util.InputMismatchException;
-import java.util.Scanner;
+/***************************************************************/
+/* 
+ *	Baselined as v1.0, Dated 05-Nov-2017
+ *	This program takes the integer value from user as input and
+ *	searches the nearest position and value in the array for the 
+ * 	input given.
+*/ 
+/***************************************************************/
 
 /****************************************************************/
 //Group.....................................: G10
@@ -13,6 +17,12 @@ import java.util.Scanner;
 //6.		Ananya Sagara Neelakanta Jois, 		Matrikel-Nr : 480378
 //7.		Jayrajsinh Vajesinh Parmar, 			Matrikel-Nr : 483791
 /****************************************************************/
+
+
+package BinarySearch;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class Main {
 
